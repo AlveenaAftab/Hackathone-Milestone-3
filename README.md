@@ -1,16 +1,17 @@
 # Hackathone-Milestone-3
-Editable Resume
+Dynamic Resume
 
 Overview
 
-A dynamic and interactive resume builder allowing users to create, edit, and customize their professional profiles in real-time.
+A cutting-edge, interactive resume showcasing professional profile, skills, and experiences in a dynamic and visually appealing format.
 
 Features
 
-- Editable sections for skills, experience, education, and more
-- Real-time updates without page reload
-- Form validation for accurate input
+- Real-time updates and editing
+- Interactive sections for skills, experience, education, and more
 - Responsive design for seamless viewing on various devices
+- Dynamic filtering and sorting options
+- Printable resume format generation
 
 Technologies Used
 
@@ -21,18 +22,26 @@ Technologies Used
 
 Functionality
 
-- Click-to-edit functionality for easy modifications
-- Instant reflection of changes
-- Dynamic interaction without manual saves or page refreshes
-- Printable resume format generation
-
-Key Highlights
-
-- User-friendly interface
-- Real-time editing and updates
+- Dynamic content loading and updates
+- Real-time reflection of changes
+- Interactive filtering and sorting
 - Cross-device compatibility
 - Enhanced professional showcase
 
+Key Highlights
+
+- Engaging visual effects and animations
+- User-friendly interface
+- Real-time editing and updates
+- Dynamic interaction
+
 Description
 
-I have developed an editable resume builder using HTML, CSS, JavaScript, and React, enabling users to create, edit, and customize their professional profiles in real-time, with seamless updates and dynamic interaction
+I have developed a dynamic resume using HTML, CSS, JavaScript, and React, showcasing my professional profile, skills, and experiences in an interactive and visually appealing format, with real-time updates and dynamic interaction.
+
+Or, if you'd like a shorter version:
+
+Dynamic Resume
+
+An interactive, real-time resume built with HTML, CSS, JavaScript, and React, showcasing professional profile, skills, and experiences in a dynamic and visually appealing format.
+
