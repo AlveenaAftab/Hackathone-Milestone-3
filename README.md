@@ -38,10 +38,3 @@ Key Highlights
 Description
 
 I have developed a dynamic resume using HTML, CSS, JavaScript, and React, showcasing my professional profile, skills, and experiences in an interactive and visually appealing format, with real-time updates and dynamic interaction.
-
-Or, if you'd like a shorter version:
-
-Dynamic Resume
-
-An interactive, real-time resume built with HTML, CSS, JavaScript, and React, showcasing professional profile, skills, and experiences in a dynamic and visually appealing format.
-
