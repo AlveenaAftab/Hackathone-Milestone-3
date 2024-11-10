@@ -1,0 +1,196 @@
+ /* Styling form and resume sections */
+
+/* Global Styles */
+
+body {
+    /* Font family and margin */
+    font-family: 'Times New Roman', Times, serif; 
+    margin: 20px; 
+    padding: 0; 
+
+    /* Light gray background */
+    background-color: #dad0d0; 
+  }
+  
+  /* Form Styles */
+  
+  form {
+    /* Center form horizontally */
+    margin: auto; 
+  
+    /* Light gray background */
+    background-color: #f7f7f7; 
+  
+    /* Rounded corners */
+    border-radius: 8px; 
+  
+    /* Drop shadow effect */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); 
+  
+    /* Padding for form content */
+    padding: 20px; 
+   
+    /* Maximum width */
+    max-width: 600px; 
+  }
+  
+  /* Heading Styles */
+  
+  h1 {
+    /* Center text horizontally */
+    text-align: center; 
+   
+    /* Deep blue color */
+    color: #000; 
+  }
+  h2 {
+    text-align: center;
+
+    color: #141ed4; 
+  }
+  
+  /* Fieldset Styles */
+  
+  fieldset {
+    /* Gray border */
+    border: 2px solid #808080; 
+   
+    /* Rounded corners */
+    border-radius: 8px; 
+   
+    /* Padding for fieldset content */
+    padding: 20px; 
+ 
+    /* Margin bottom */
+    margin-bottom: 20px; 
+ 
+    /* White background */
+    background-color: #fff; 
+  }
+  
+  /* Legend Styles */
+  
+  legend {
+    /* Bold font weight */
+    font-weight: bold; 
+ 
+    /* Left-aligned text */
+    text-align: left; 
+  
+    /* Black color */
+    color: #000; 
+  }
+  
+  /* Label Styles */
+  
+  label {
+    /* Display as block element */
+    display: block; 
+  
+    /* Margin top */
+    margin-top: 10px; 
+  
+    /* Dark gray color */
+    color: #333; 
+  }
+  
+  /* Input and Textarea Styles */
+  
+  input, textarea {
+    /* Margin top */
+    margin-top: 4px; 
+  
+    /* Padding */
+    padding: 8px; 
+  
+    /* Full width */
+    width: calc(100% - 1px); 
+  
+    /* Light gray border */
+    border: 1px solid #ccc; 
+  
+    /* Rounded corners */
+    border-radius: 4px; 
+   
+    /* Box sizing */
+    box-sizing: border-box; 
+  }
+  
+  /* Button Styles */
+  
+  button {
+    /* Display as block element */
+    display: block; 
+  
+    /* Full width */
+    width: 100%; 
+  
+    /* Deep blue background */
+    background-color: #0047AB; 
+   
+    /* White color */
+    color: #fff; 
+   
+    /* No border */
+    border: none; 
+   
+    /* Rounded corners */
+    border-radius: 4px; 
+   
+    /* Drop shadow effect */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); 
+   
+    /* Margin top */
+    margin-top: 10px; 
+   
+    /* Font size */
+    font-size: 18px; 
+   
+    /* Font family */
+    font-family: 'Times New Roman', Times, serif; 
+   
+    /* Padding */
+    padding: 10px; 
+   
+    /* Cursor pointer */
+    cursor: pointer; 
+  }
+  
+  /* Button Hover Effect */
+  
+  button:hover {
+    /* Darker blue background on hover */
+    background-color: #002F5A; 
+  }
+  
+  /* Resume Display Styles */
+  
+  #resume-display {
+    /* Maximum width */
+    max-width: 600px; 
+   
+    /* Center horizontally */
+    margin: auto; 
+  
+    /* Padding */
+    padding: 20px; 
+   
+    /* Gray border */
+    border: 2px solid #808080; 
+   
+    /* Rounded corners */
+    border-radius: 8px; 
+   
+    /* White background */
+    background-color: #fff; 
+   
+    /* Drop shadow effect */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); 
+  }
+  
+  /* Resume Display Heading Styles */
+  
+  #resume-display h2 {
+    /* Black color */
+    color: #000; 
+  }
